@@ -78,5 +78,5 @@ int main() {
     Loan loan(id, name, amount, interestRate, tenure);
     loan.displayLoanDetails();
     }
-    return 0;
+    cout<<endl<<"Manush Desai 24CE025";
 }
