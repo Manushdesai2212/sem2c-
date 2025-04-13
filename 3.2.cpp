@@ -43,5 +43,5 @@ int main() {
     cout << "Sum using recursion: " << sumRecursive << endl;
     cout << "Sum using iteration: " << sumIterative << endl;
 
-    return 0;
+    cout<<endl<<"Manush Desai 24CE025";
 }
